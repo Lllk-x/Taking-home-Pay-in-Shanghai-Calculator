@@ -1,1 +1,3 @@
-"# Taking-home-Pay-in-Shanghai-Calculator" 
+Taking home Pay in Shanghai Calculator
+
+Hello, World!
