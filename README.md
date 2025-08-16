@@ -1,3 +1,6 @@
-Taking home Pay in Shanghai Calculator
+# Taking Home Pay in Shanghai Calculator
 
-Hello, World!
+Use this to calculate your take-home pay from your pre-tax salary!
+------
+HF = House Funding
+SI = Social Insurance
